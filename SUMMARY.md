@@ -1,0 +1,3 @@
+# Summary
+
+* [EditorConfig](README.md)
